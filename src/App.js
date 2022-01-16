@@ -8,8 +8,16 @@ export default function App() {
     <div className="App">
       {" "}
       Weather App
-      <p>
-        This is created by Tasha Tran and is open-sourced on {""}
+      <footer>
+        This is created by{" "}
+        <a
+          href="https://nervous-nightingale-f156b1.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Tasha Tran{" "}
+        </a>{" "}
+        and is open-sourced on {""}
         <a
           href="https://github.com/tashatran/react-weather-app"
           target="_blank"
@@ -17,7 +25,7 @@ export default function App() {
         >
           GitHub
         </a>
-      </p>
+      </footer>
     </div>
   );
 }
