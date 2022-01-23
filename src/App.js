@@ -9,7 +9,11 @@ export default function App() {
         <Weather />
         <footer>
           This is created by{" "}
-          <a href="#" target="_blank" rel="noreferrer">
+          <a
+            href="https://silly-davinci-48e92a.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Tasha Tran{" "}
           </a>{" "}
           and is open-sourced on {""}
