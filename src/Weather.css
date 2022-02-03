@@ -26,9 +26,8 @@
   line-height: 20px;
 }
 
-.Weather img {
-  position: relative;
-  top: -15px;
+.Weather canvas {
+  margin: 10px auto;
 }
 .Weather .temperature {
   font-weight: bold;
