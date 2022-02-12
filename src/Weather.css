@@ -49,4 +49,15 @@
   position: relative;
   line-height: 1;
   top: -32px;
+  margin-left: 5px;
+}
+
+.Weather #current-city-button {
+  font-family: Google Sans, Roboto, arial, sans-serif;
+  background-color: transparent;
+  border-style: none;
+  align-content: center;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
 }
