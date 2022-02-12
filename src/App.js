@@ -8,13 +8,13 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="London" />
         <footer>
-          This is created by{" "}
+          This is created by Tasha Tran.{" "}
           <a
             href="https://silly-davinci-48e92a.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
-            Tasha Tran{" "}
+            Hosted on Netlify{" "}
           </a>{" "}
           and is open-sourced on {""}
           <a
